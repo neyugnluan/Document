@@ -1,6 +1,8 @@
 # Document-Helper
 https://github.com/raywenderlich/c-sharp-style-guide
 
+# Design Pattern
+https://github.com/AlBannaTechno/C-Sharp-Design-Pattern-Collection
 
 # XamarinComponents
 https://github.com/neyugnluan/XamarinComponents
