@@ -1,3 +1,8 @@
+# Application Refer
+https://github.com/egramtel/egram.tel
+https://github.com/avestura/EyesGuard
+https://builtwithdot.net/
+
 # Document-Helper
 https://github.com/raywenderlich/c-sharp-style-guide
 https://github.com/thangchung/clean-code-dotnet
@@ -20,6 +25,7 @@ https://github.com/MarcBruins/awesome-xamarin
 https://github.com/Carlos487/awesome-wpf
 https://github.com/quozd/awesome-dotnet
 https://github.com/thangchung/awesome-dotnet-core
+https://github.com/DavidsCavalcante/awesome-dotnet
 
 
 # Fultter
@@ -46,6 +52,7 @@ https://github.com/olivierlacan/keep-a-changelog
 # Scheduler Job
 https://github.com/jlucansky/Quartzmin
 https://github.com/quartznet/quartznet
+https://brthor.github.io/Gofer.NET/taskqueue
 
 # Books
 https://github.com/mgp/book-notes
