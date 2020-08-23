@@ -1,5 +1,6 @@
 # Document-Helper
 https://github.com/raywenderlich/c-sharp-style-guide
+https://github.com/thangchung/clean-code-dotnet
 
 # Design Pattern
 https://github.com/AlBannaTechno/C-Sharp-Design-Pattern-Collection
@@ -16,7 +17,10 @@ https://github.com/pangpanglabs/pos-xamarin
 
 # awesome
 https://github.com/MarcBruins/awesome-xamarin
-https://github.com/MarcBruins/awesome-xamarin
+https://github.com/Carlos487/awesome-wpf
+https://github.com/quozd/awesome-dotnet
+https://github.com/thangchung/awesome-dotnet-core
+
 
 # Fultter
 https://github.com/rodydavis/flutter_everywhere
