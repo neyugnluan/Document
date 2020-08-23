@@ -55,3 +55,6 @@ https://github.com/martinmurciego/good-books
 https://github.com/p0w34007/ebooks
 https://github.com/mxriverlynn/presentations-and-training
 https://github.com/pranavlathigara/Documentation
+
+# Pakage
+zeluisping/LoadingIndicators.WPF: A collection of loading indicators for WPF
